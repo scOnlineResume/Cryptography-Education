@@ -1,0 +1,3 @@
+A 1 byte xor key was used to encrypt the flag (using the xor operation)
+The encrypted flag has been provided
+encrypted hexademial string: 929895938f80918780ab9298959389
