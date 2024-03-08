@@ -1,0 +1,3 @@
+The flag has been encrypted by a 2 byte key (using xor)
+After the flag has been encrypted, the encrypted hexadecimal string has been provided
+encrypted hexademial string: 923995328f219126800a92399532ab259527800ac628
